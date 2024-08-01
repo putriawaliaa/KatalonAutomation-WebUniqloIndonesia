@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Kata Sandi Tidak Sesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aaf5bfc4-7d0b-4fcc-875a-28b781022c06</testCaseGuid>
+</TestCaseEntity>

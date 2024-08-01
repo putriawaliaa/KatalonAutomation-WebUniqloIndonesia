@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun menggunakan alamat email existing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a69d862-9544-40a8-b1aa-d38204375fb4</testCaseGuid>
+</TestCaseEntity>

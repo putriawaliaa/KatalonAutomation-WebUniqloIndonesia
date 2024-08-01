@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Tanpa Isi Kode Pos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b3b0c36-8f69-42dd-8fe9-e569ac667090</testCaseGuid>
+</TestCaseEntity>

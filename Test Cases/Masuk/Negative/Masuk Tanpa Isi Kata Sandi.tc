@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Masuk Tanpa Isi Kata Sandi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8b55e0f-6629-469e-9c92-0b4de6b4d8eb</testCaseGuid>
+</TestCaseEntity>

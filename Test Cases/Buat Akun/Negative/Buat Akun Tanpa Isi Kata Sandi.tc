@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Tanpa Isi Kata Sandi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fe1645f-d495-4d1d-9913-08310b70181f</testCaseGuid>
+</TestCaseEntity>

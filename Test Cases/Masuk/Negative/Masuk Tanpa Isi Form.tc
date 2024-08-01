@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Masuk Tanpa Isi Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba1a8de8-8212-4790-9598-b58ced953783</testCaseGuid>
+</TestCaseEntity>

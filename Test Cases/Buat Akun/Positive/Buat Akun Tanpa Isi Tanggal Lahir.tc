@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Tanpa Isi Tanggal Lahir</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84d4674c-0e4d-4ece-b1db-5c1551b2c7b6</testCaseGuid>
+</TestCaseEntity>

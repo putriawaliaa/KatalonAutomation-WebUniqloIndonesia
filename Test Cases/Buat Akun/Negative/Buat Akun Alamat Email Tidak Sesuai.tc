@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Alamat Email Tidak Sesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30638078-27f0-44f8-b5bd-e0214f9fec27</testCaseGuid>
+</TestCaseEntity>

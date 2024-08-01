@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Tanpa Isi Alamat Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cf0d01f-00a5-437b-a672-a7b09843a9ea</testCaseGuid>
+</TestCaseEntity>

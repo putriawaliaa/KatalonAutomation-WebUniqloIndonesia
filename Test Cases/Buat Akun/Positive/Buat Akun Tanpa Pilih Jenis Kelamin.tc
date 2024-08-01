@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Tanpa Pilih Jenis Kelamin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed66148f-2c83-4298-bfa6-7ead4a61d9f7</testCaseGuid>
+</TestCaseEntity>

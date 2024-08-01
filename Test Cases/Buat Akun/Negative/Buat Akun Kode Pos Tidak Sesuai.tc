@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun Kode Pos Tidak Sesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ec811e8-bcb0-4fae-80f3-00f1278cebdc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Masuk Tidak Sesuai Alamat Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6ae3154-81d0-4fc0-a4a1-4855719c0ab7</testCaseGuid>
+</TestCaseEntity>
